@@ -5,7 +5,7 @@
 
 # <p align="center"> Reach me out! </p>
 
-[![Mail Badge](https://img.shields.io/badge/-scharafetdinov-blue?style=flat&labelColor=blue&logo=telegram&logoColor=white)](t.me/scharafetdinov) [![Mail Badge](https://img.shields.io/badge/-scharafetdinov-darkblue?style=flat&labelColor=darkblue&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinatscharafetdinov) [![Mail Badge](https://img.shields.io/badge/-You_can_write_me_a_message-e74c3c?style=flat&labelColor=e74c3c&logo=gmail&logoColor=white)](mailto:scharafetdinov@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Rinat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scharafetdinov/) [![Mail Badge](https://img.shields.io/badge/-@scharafetdinov-purple?style=flat&labelColor=&logo=instagram&logoColor=white)](https://instagram.com/scharafetdinov)
+[![Mail Badge](https://img.shields.io/badge/-scharafetdinov-blue?style=flat&labelColor=blue&logo=telegram&logoColor=white)](https://tlgg.ru/scharafetdinov) [![Mail Badge](https://img.shields.io/badge/-scharafetdinov-darkblue?style=flat&labelColor=darkblue&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinatscharafetdinov) [![Mail Badge](https://img.shields.io/badge/-You_can_write_me_a_message-e74c3c?style=flat&labelColor=e74c3c&logo=gmail&logoColor=white)](mailto:scharafetdinov@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Rinat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scharafetdinov/) [![Mail Badge](https://img.shields.io/badge/-@scharafetdinov-purple?style=flat&labelColor=&logo=instagram&logoColor=white)](https://instagram.com/scharafetdinov)
 
 
 - ### 💻 Currently working on Machine Learning library to simplify my life.
